@@ -5,9 +5,9 @@ import globalGroups from './globalGroups';
 
 export default defineGkdSubscription({
   id: 500,
-  name: 'Subscription',
+  name: '狗屁广告',
   version: 0,
-  author: 'author',
+  author: 'sheayoo',
   checkUpdateUrl: './gkd.version.json5',
   supportUri:
     'https://fastly.jsdelivr.net/gh/lmdwyzh/sheayoo@main/dist/gkd.json5 ',
