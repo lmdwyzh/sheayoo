@@ -22,6 +22,7 @@ export default defineGkdApp({
             'https://i.gkd.li/i/12566191',
             'https://i.gkd.li/i/12870916',
             'https://i.gkd.li/i/13233500',
+            'https://i.gkd.li/i/13233500',
           ],
         },
         {
